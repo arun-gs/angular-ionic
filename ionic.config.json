@@ -1,0 +1,7 @@
+{
+  "name": "ionictut",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
